@@ -1,0 +1,23 @@
+BUILD REQUEST INFO:
+SW Version: ali-user 9 PPS29.118-15-11-16 3afd9 release-keysM450_23.31.10.89R
+Modem Version: M450_23.31.10.89R
+FSG Version: FSG-8953-16.128
+MBM Version: MBM-2.1-ali_retail-5e077487fa-200423
+Build Fingerprint: motorola/ali/ali:9/PPS29.118-15-11-16/3afd9:user/release-keys
+
+VERSION INFO FOUND UNDER 'ABOUT PHONE' SCREEN:
+System Version: 29.281.4.ali.retail.en.US
+Model Number: moto g(6)
+Android Version: 9
+Build Id: PPS29.118-15-11-16
+SW Display Build ID: PPS29.118-15-11-16
+Build Date: Thu Apr 23 11:45:33 CDT 2020
+
+OTHER MISC VERSION INFO:
+Subsidy Lock Config: slcf_rev_d_default_v1.0.nvm
+Regulatory Info (eLabel): regulatory_info_default.png
+Blur Version: Blur_Version.29.281.4.ali.retail.en.US
+Version when read from CPV: ali-user 9 PPS29.118-15-11-16 3afd9 release-keys
+
+AB Update Enabled: False
+Full Treble Enabled: True
